@@ -4,5 +4,5 @@
 ##### 1. docker build -t myflask .
 ##### 2. docker run -d -p 8080:8080 myflask
 ### 2. If you want to change name you can find file called settings.py in the app folder , and change name in this file ,after that you must do the first step again
-### 3. If you wnat to check applicatin health you can go to you web broser and open 
+### 3. If you wnat to check application health you can go to you web browser and open 
 http://localhost:8080
